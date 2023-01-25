@@ -1,4 +1,9 @@
-## Olá! Sou o Marcos Vieira! 😁
+<div align="center">
+
+## 🙋‍♂️ Olá! Sou o Marcos Vieira! Desenvolvedor Full-Stack em construção 👨‍💻
+
+</div>
+
 - 🔭 Atualmente participo do programa de formação em desenvolvimento full-stack pelo Resilia, junto ao SENAC RIO e a Prefeitura do Rio de Janeiro.
 - 🌱 Estou me aprofundando no uso do React para o desenvolvimento Frond-End.
 - 📫 E-mail para contato: marcosantonio788@hotmail.com
